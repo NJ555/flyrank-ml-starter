@@ -1,14 +1,10 @@
 # Capstone Report — Refresh / Content Opportunity Scoring
 
-- **Author:** Neeraj Jaiswal
+- **Author:** Neeraj Jayaswal
 - **Lane:** Refresh / Content Opportunity Scoring
 - **Repo:** https://github.com/NJ555/flyrank-ml-starter
 - **Date:** 27 July 2026
 
-> Copy this file to `work/capstone_report.md` and fill it in as you build. Sections 1–8
-> mirror the Pass / Needs-Work rubric axes, so nothing here is optional. Sections 0 and 9
-> are **paper sections**: your deployed research paper must carry both, and they're here so
-> you never rebuild them from memory at ship time.
 
 ## 0. Abstract
 This project builds a content opportunity scoring system that identifies pages needing review. Using the anonymized FlyRank dataset, I created a transparent
