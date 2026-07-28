@@ -55,10 +55,13 @@ and pages predicted as monitor can continue to be observed without immediate act
 
 The complete workflow is available in this repository. All experiments were run using fixed random seeds to improve reproducibility. The baseline scoring notebook, model notebook, 
 and supporting notebooks are included under the work/notebooks directory. Running the notebooks from top to bottom reproduces the reported results, provided the FlyRank dataset is available.
-## 9. Acknowledgments & data credit
+## 9. Acknowledgments & Data Credit
 
-This project was built using the FlyRank ML Internship dataset provided for educational purposes. The analysis follows the internship guidelines and
-uses the anonymized dataset supplied through the FlyRank program.
+This project was completed as part of the FlyRank Machine Learning Internship.
+
+The anonymized starter dataset, assignment structure, and educational materials were provided by FlyRank for learning purposes.
+
+Data Credit: https://flyrank.ai
 
 ---
 
